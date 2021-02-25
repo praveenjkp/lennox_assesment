@@ -1,0 +1,14 @@
+{
+	"set":{
+		"browser":[
+			
+			{
+			 "capability":"android",
+			 "UIType":"web",
+			 "deviceName":"Local android Chrome Browser",
+			 "browserName":"chrome",
+			 "remote":""
+			 }
+		]
+	}
+}
